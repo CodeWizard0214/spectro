@@ -15,7 +15,7 @@ const tracks = [
   {
     id: 1,
     title: "60429.mp3",
-    url: "https://animal-delta.vercel.app/1.mp3",
+    url: "https://www.mfiles.co.uk/mp3-downloads/gs-cd-track2.mp3",
   },
 ];
 
